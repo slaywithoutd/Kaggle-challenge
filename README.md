@@ -1,3 +1,13 @@
+## Estrutura e Histórico dos Modelos
+
+O arquivo [`model.py`](./model.py) foi desenvolvido inicialmente para testes e validação das primeiras abordagens do desafio. Posteriormente, o código foi adaptado e aprimorado no notebook [`mode.ipynb`](./mode.ipynb), que foi entregue como solução final em formato de notebook.
+
+Os notebooks [`modelo_startup.ipynb`](./modelo_startup.ipynb) e [`projeto_kaggle.ipynb`](./projeto_kaggle.ipynb) representam outras tentativas de modelagem, mas não apresentaram desempenho satisfatório para serem considerados como solução final.
+
+As submissões estão relacionadas da seguinte forma:
+- [`submission.csv`](./submission.csv): Resultado gerado a partir do notebook [`mode.ipynb`](./mode.ipynb).
+- [`submission_1.csv`](./submission_1.csv): Resultado gerado a partir do notebook [`projeto_kaggle.ipynb`](./projeto_kaggle.ipynb).
+
 # Desafio de Previsão de Sucesso de Startups
 Imagine que você foi contratado por uma das maiores aceleradoras do mundo. Sua missão? Desenvolver um modelo preditivo capaz de identificar quais startups apresentam maior probabilidade de se tornarem casos de sucesso no mercado.
 
